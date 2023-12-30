@@ -43,6 +43,138 @@ function filtrerParGenre() {
 let texteBrut = ""; // Le texte brut à convertir
 let resumeWebtoon = ""; // La version html de ce texte
 
+// Batard
+texteBrut = `Titre : Batard
+Genre : Thriller
+Statut : Terminé
+Nombre de chapitres : 93
+Taille d'un chapitre : Court 
+Description courte : Nous allons suivre le quotidien d'un fils ainsi que de son père, qui n'ont pas un quotidien des plus classiques. Pourquoi le père tue-t-il autrui ? Que s'est-il passé avec la mère ? Quels sont les anciens souvenirs perdus de l'enfant ?
+Toutes ces questions font partie de l'intrigue principale de ce Webtoon horreur.
+Avis Personnel : Je n'ai pas beaucoup vu de Thriller mais celui ci m'a beaucoup plu, on suit l'évolution du personnage principal avec grand intérêt, les moments de frissons sont bien rythmé, on compatis pour le personnage et comprends en même temps que lui ce qui lui arrive.
+Lien : https://www.webtoons.com/fr/thriller/bastard/list?title_no=1830
+Dernière date d'édition : 9/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('Batard').innerHTML = resumeWebtoon;
+
+// Capitaine Zorgue
+texteBrut = `Titre : Capitaine Zorgue
+Genre : Comedy / Slice of Life
+Statut : Terminé 
+Nombre de chapitres : 237
+Taille d'un chapitre : Court
+Description : La Terre a construit un vaisseau ultra performant pour se sauver de notre planète qui se meurt peu à peu. Elle a donc choisi les meilleurs pour partir dans une mission sans retour afin de trouver une nouvelle planète habitable. Les meilleurs ayant refusé, on a fait un équipage avec ceux qui restaient. Le Capitaine Zorgue est le capitaine de ce super vaisseau et de son tout aussi superbe équipage.
+Avis Personnel : Une très bonne comédie, le personnage est attachant, certains personnages servent de running gag bien utilisé. Les graphismes sont simples et l'histoire drôle.
+Lien : https://www.webtoons.com/fr/sf/capitaine-zorgue/list?title_no=2370
+Dernière date d'édition : 9/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('Capitaine_Zorgue').innerHTML = resumeWebtoon;
+
+
+// L'expert de la Tour Tutoriel
+texteBrut = `Titre : L'expert de la Tour Tutoriel
+Genre : Fantastique / Action
+Statut : En cours
+Nombre de chapitres : 162
+Taille d'un chapitre : Moyen
+Description : Après avoir été enfermé pendant 12 ans dans la tour tutoriel, le monde me considérait comme un expert. Maintenant que je suis sorti, ma vraie aventure commence !
+Avis Personnel : Une histoire assez bannale avec un principe de tours à monter, récurrent dans pas mal de webtoon, selon moi ce webtoon est bien sans plus, si vous n'accrochez de base que moyennement à ce type de webtoon, il y a mieux, plus diversifié. Celui ci à son système mais ne sort pas vraiment de l'ordinaire. Malgré tout, si vous cherchez juste à lire quelque chose pour passer le temps il s'agit alors d'un très bon webtoon.
+Avis de Vin's : Je le lisais, au début il y avait pas mal d'humour mais plus on avance plus on s'éloigne du personnage de base et plus les "blagues" tourne en rond, donc j'ai laissé tombé autour de l'épisode 120.
+Lien : https://www.webtoons.com/fr/fantasy/expert-de-la-tour-tutoriel/list?title_no=2312
+Dernière date d'édition : 13/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('L_Expert_De_La_Tour_Tutoriel').innerHTML = resumeWebtoon;
+
+// Prodige Hors Norme
+texteBrut = `Titre : Prodige Hors Norme
+Genre : Fantastique / Action / Comédie
+Statut : En cours
+Nombre de chapitres : 16
+Taille d'un chapitre : Moyen
+Description : Kwang-ik est un jeune de 20 ans, et il apprend un jour qu'il est métis de deux races spéciales, un cas peu commun. Ses parents, qui avaient tous les deux caché leur race l'un de l'autre, commencent à préparer leur fils avec des entraînements typiques à leur race. Avec ces entraînements, Kwang-ik apprend qu'il possède un mélange de pouvoirs des deux races, ce qui le rend plus puissant qu'un Immortel ou un Métamorphe de sang pur. Une fois les entraînements de base terminés, il décide de joindre une entreprise d'Immortels par la proposition de son père.
+Avis Personnel : Franchement, une bonne série pour se détendre, l'humour est présente à foison, l'action aussi. Le mélange des 2 races nous donne des quiproquos drôle mais facilite aussi la vie du personnage principal qui lui aime bien embêter autrui. Il est impulsif mais drôle et attachant.
+Lien : https://www.webtoons.com/fr/fantasy/prodige-hors-norme/list?title_no=5582
+Dernière date d'édition : 9/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('Prodige_Hors_Norme').innerHTML = resumeWebtoon;
+
+// La Mariée du Roi Dragon
+texteBrut = `Titre : La mariée du roi dragon
+Genre : Romance ; Fantasy ; Drama
+Statut : Pas terminer, 31 épisode
+Taille d'un chapitre : Mi-long Mi-court cela varie
+Description : 
+Nous allons suivre l'histoire d'une jeune femme au nom de Lucina, née fille illégitime d'un baron, ça famille ainsi que les domestiques de la maison lui mènera la vie dure, sa famille l'a également promise au roi du pays étant connu pour tuer ces conquêtes lorsque celui-ci se lasse d'elle. Mais un beau jour, en crainte de leurs vie, la famille de Lucina la vendu au dénommé roi des barbares qui celui-ci l'enleva enfin de faire d'elle sa femme.
+Avis personnelle :
+Perso je trouve que l'histoire entre les 2 protagoniste va assez vite et que sa perd son intérêt petit a petit (et j'avais aussi envie de taper la meuf a pls reprise mais sa c autre chose mdr) mais sinon en soit malgré la rapidité de l'histoire et le fait ue du coup sa colle pas trop avec le perso princ, j'aime quand même bien l'hisoire et en plus je trouve que les dessins sont très beau aussi!
+Liens :
+https://www.webtoons.com/fr/romance/la-mariee-du-roi-dragon/list?title_no=5339
+Dernière date d'édition : 8/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('La_Mariee_Du_Roi_Dragon').innerHTML = resumeWebtoon;
+
+
+// Like Wind on a Dry Branch
+texteBrut = `
+Titre : Like Wind on a Dry Branch
+Genre : Fantasy ; Romance 
+Statut : Pas terminer, 140 épisodes
+Taille des chapitres : mi court mi long, cela varie
+Description : 
+Rietta Tristi est une jeune femme vivant dans une époque où les "démons", plus précisément la peste, fait rage. La maladie ayant emporter son mari, elle se retrouve face à la menace d'un noble malveillants, voulant faire d'elle ça femme, celui-ci fit enlever sa fille afin de la vendre en esclavage suite à son refus. Avant sa mort, il demanda à ce que Rietta soit enterrer vivante à ces côtés. Cependant la vie de la jeune femme se voit sauver par la visite surprise d'un prince déchu. 
+Avis personnelle :
+Perso j'aime bien le webtoon, il y a du drama mais c'est un webtoon qui reste calme, doux et apaisant, que ce soit au niveau de l'histoire, qu'au niveau des dessins. Je trouve même que ce webtoon reste l'un, voir le plus beau webtoon que j'ai lu jusqu'ici. Je conseille de le lire si vous cherchez un peu de douceur mdr
+Liens :https://www.webtoons.com/fr/fantasy/like-wind-on-a-dry-branch/list?title_no=2572
+Dernière date d'édition : 8/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('Like_Wind_On_A_Dry_Branch').innerHTML = resumeWebtoon;
+
+
+// For my derelict favorite
+texteBrut = `
+Titre : For my derelict favorite
+Genre : Romance ; comique
+Statut : En pause (s1 terminer) 
+Nombre de chapitres : 55 + 1
+Taille d'un chapitre : Moyen
+Description :
+Nous savons souvent comment se déroule une histoire dans un livre, mais savons-nous que ce passe t'il après le "heureux jusqu'à la fin des temps"? 
+C'est une réponse que nous aurons en suivant l'histoire Hestia. 
+Hestia est une jeune femme ayant était assassinée dans son ancienne vie, cependant la vie lui octrois une réincarnation qui lui plaît fortement, étant une grande fan girl de roman, quel à était sa surprise en se réveillant dans l'univers de son roman préféré! Fan girl comme elle est, elle laissera étonnamment l'histoire se dérouler comme tel, essayant juste de voir de près son character préféré! Avant de découvrir la fin tragique de celui-ci! 
+Sous un coup de rage et de tristesse, elle perdit la vie dans un dernier instant de prière, avant de se réveiller une dernière fois, à la dernière journée, de son roman préféré! 
+Avis Personnel : 
+Sa semble un peu répétitif mais je le rassure sa l'est pas, la 1er réincarnation est très courte pour laisser plus de place à la 2eme qui est vachement plus importante, ce que j'aime bien dans ce webtoon c le fait que la fan girl me fait bcp rire perso, j'aime bcp l'histoire qu'est créer dans cette univers et j'aime aussi bcp le fait que pour une fois les méchants sont les personnages principaux (pas les 2 perso prin du webtoon mais les 2 protagonistes de histoire dans laquelle hestia c réincarné) et j'adore aussi bcp qu'elle les mène vrmt en bourrique. J'aime aussi bcp les dessins mais sa c autre chose encore mdr
+Lien : https://www.webtoons.com/fr/romance/for-my-derelict-favorite/list?title_no=4957
+Dernière date d'édition : 10/11/23
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('For_My_Derelict_Favorite').innerHTML = resumeWebtoon;
+
+
+// Lecteur Omniscient
+texteBrut = `
+Titre : Lecteur omniscient
+Genre : action/fantastique
+Statut : en cours
+Nombre de chapitres : 180(variable selon la langue et la plateforme)
+Taille des chapitres : Long
+Description : alors qu'il n'est qu'un étudiant ordinaire, Kim Dojka fini le dernier chapitre de "Trois façon de survivre dans un monde en ruine", dont il est l'unique lecteur.
+La terre est alors frappée de catastrophes, et les êtres humains sont transformés en divertissement pour les "constellation", des êtres ayant obtenu il y a longtemps une grande reconnaissance par les hommes (Dieu, héro, personnage célèbre, etc.).
+Les personnes les plus chanceuses sont reconnues comme "incarnation " d'une constellation, et obtiennent des pouvoirs de celle-ci.
+Notre héros reconnaît aussitôt l'histoire qu'il vient de finir... Et il fera tout pour y survivre !
+Avis personnel: un début très classique et certains personnages clichés, mais au fur et à mesure le style se développent et même si certains événements récurrents surviennent, l'histoire est intéressante et parfois très drôle.
+Par contre les personnages n'évoluent pas beaucoup à mon goût...
+https://www.webtoons.com/fr/fantasy/omniscient-reader/ep177/viewer?title_no=2175&episode_no=178
+`;
+resumeWebtoon = genererResume(texteBrut);
+document.getElementById('Lecteur_Omniscient').innerHTML = resumeWebtoon;
+
 // Solo Auto-Hunting
 texteBrut = `
 Titre : Solo Auto-Hunting
@@ -165,6 +297,3 @@ Dernière date d'édition : 14/11/23
 `;
 resumeWebtoon = genererResume(texteBrut);
 document.getElementById('Villain_To_Kill').innerHTML = resumeWebtoon;
-
-// Verification du fonctionnement
-console.log(resumeWebtoon)
