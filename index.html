@@ -7,13 +7,10 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Doodle+Shadow">
     <link rel="stylesheet" href="style.css">
 </head>
-<header class="header">
-    <a href="index.html"><b>Webtoon Resume</b></a>
-</header>
 <body>
-
+    <a id="title" href="index.html">Webtoon Resume</a>
     <div>
-        <label for="genreFilter">Filtrer par genre:</label>
+        <label class="filtres" for="genreFilter">Filtrer par genre:</label>
         <select id="genreFilter" onchange="filtrerParGenre()">
             <option value="tous">Tous</option>
             <option value="action">Action</option>
@@ -27,6 +24,46 @@
             <option value="thriller">Thriller</option>
         </select>
       </div>   
+
+<div class="toggle-text thriller" onclick="toggleVisibility('Batard')">
+    Batard
+</div>
+<p class="hidden-text" id="Batard"></p>
+
+<div class="toggle-text comedie" onclick="toggleVisibility('Capitaine_Zorgue')">
+    Capitaine Zorgue
+</div>
+<p class="hidden-text" id="Capitaine_Zorgue"></p>
+
+<div class="toggle-text action fantastique" onclick="toggleVisibility('L_Expert_De_La_Tour_Tutoriel')">
+    L'Expert De La Tour Tutoriel
+</div>
+<p class="hidden-text" id="L_Expert_De_La_Tour_Tutoriel"></p>
+
+<div class="toggle-text action fantastique comedie" onclick="toggleVisibility('Prodige_Hors_Norme')">
+    Prodige Hors Norme
+</div>
+<p class="hidden-text" id="Prodige_Hors_Norme"></p>
+
+<div class="toggle-text romance fantastique drame" onclick="toggleVisibility('La_Mariee_Du_Roi_Dragon')">
+    La Mariée Du Roi Dragon
+</div>
+<p class="hidden-text" id="La_Mariee_Du_Roi_Dragon"></p>
+
+<div class="toggle-text romance comique" onclick="toggleVisibility('Like_Wind_On_A_Dry_Branch')">
+    Like Wind On A Dry Branch
+</div>
+<p class="hidden-text" id="Like_Wind_On_A_Dry_Branch"></p>
+
+<div class="toggle-text romance fantastique" onclick="toggleVisibility('For_My_Derelict_Favorite')">
+    For My Derelict Favorite
+</div>
+<p class="hidden-text" id="For_My_Derelict_Favorite"></p>
+
+<div class="toggle-text action fantastique" onclick="toggleVisibility('Lecteur_Omniscient')">
+    Lecteur Omniscient
+</div>
+<p class="hidden-text" id="Lecteur_Omniscient"></p> 
 
 <div class="toggle-text action SoL" onclick="toggleVisibility('Hero_Ticket')">
     Hero Ticket
