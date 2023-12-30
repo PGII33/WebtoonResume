@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webtoon Resume - Action</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Doodle+Shadow">
+    <link rel="stylesheet" href="style.css">
+</head>
+<header class="header">
+    <a href="index.html"><b>Webtoon Resume</b></a>
+</header>
+<body>
+
+    <div>
+        <label for="genreFilter">Filtrer par genre:</label>
+        <select id="genreFilter" onchange="filtrerParGenre()">
+            <option value="tous">Tous</option>
+            <option value="action">Action</option>
+            <option value="fantastique">Fantastique</option>
+            <option value="SoL">Slice Of Life</option>
+            <option value="comedie">Comédie</option>
+            <option value="sport">Sport</option>
+            <option value="drame">Drame</option>
+            <option value="romance">Romance</option>
+            <option value="horreur">Horreur</option>
+            <option value="thriller">Thriller</option>
+        </select>
+      </div>   
+
+<div class="toggle-text action SoL" onclick="toggleVisibility('Hero_Ticket')">
+    Hero Ticket
+</div>
+<p class="hidden-text" id="Hero_Ticket"></p>
+
+<div class="toggle-text action SoL comedie" onclick="toggleVisibility('Je_Ne_Suis_Pas_Celui_Que_Vous_Croyez')">
+    Je Ne Suis Pas Celui Que Vous Croyez
+</div>
+<p class="hidden-text" id="Je_Ne_Suis_Pas_Celui_Que_Vous_Croyez"></p>
+
+<div class="toggle-text action fantastique SoL "toggle-text onclick="toggleVisibility('The_Lazy_Lord_Masters_The_Sword')"> 
+    The Lazy Lord Masters The Sword
+</div>
+<p class="hidden-text" id="The_Lazy_Lord_Masters_The_Sword"></p>
+
+<div class="toggle-text action"toggle-text onclick="toggleVisibility('Return_Of_The_Mad_Demon')"> 
+    Return Of The Mad Demon
+</div>
+<p class="hidden-text" id="Return_Of_The_Mad_Demon"></p>
+
+<div class="toggle-text action"toggle-text onclick="toggleVisibility('Auto_Hunting_With_My_Clones')"> 
+    Auto Hunting With My Clones
+</div>
+<p class="hidden-text" id="Auto_Hunting_With_My_Clones"></p>
+
+<div class="toggle-text action"toggle-text onclick="toggleVisibility('Solo_Auto-Hunting')"> 
+    Solo Auto-Hunting
+</div>
+<p class="hidden-text" id="Solo_Auto-Hunting"></p>
+
+<div class="toggle-text action"toggle-text onclick="toggleVisibility('The_World_After_the_Fall')"> 
+    The World After the Fall 
+</div>
+<p class="hidden-text" id="The_World_After_the_Fall"></p>
+
+<div class="toggle-text action" onclick="toggleVisibility('Villain_To_Kill')">
+    Villain To Kill
+</div>
+<p class="hidden-text" id="Villain_To_Kill"></p>
+
+<script src="script.js"></script>
+<script src="text_convert.js"></script>
+</body>
+</html>
