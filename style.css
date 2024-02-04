@@ -26,6 +26,24 @@ body {
     text-align: center;
 }
 
+/* Sélecteur pour les liens non visités */
+a {
+    color: green; /* Couleur du texte */
+    text-decoration: underline; /* Soulignement */
+}
+
+/* Sélecteur pour les liens visités */
+a:visited {
+    color: green; /* Couleur du texte */
+    text-decoration: underline; /* Soulignement */
+}
+
+/* Sélecteur pour les liens au survol de la souris */
+a:hover {
+    color: darkgreen; /* Couleur du texte au survol */
+    text-decoration: underline; /* Soulignement au survol */
+}
+
 /* Style du menu déroulant */
 #genreFilter {
     background-color: var(--bg-color) !important;
