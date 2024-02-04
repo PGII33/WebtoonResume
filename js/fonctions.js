@@ -21,6 +21,7 @@ function genererResume(webtoons) {
         
         let genre = webtoon.genre.replace(/\//g, '')
         let title_ = webtoon.title.replace(/ /g, '_')
+        title_ = webtoon.title.replace(/'/g, '_')
         html += `
         <div class="webtoon">
             <div class="toggle-text ${genre}" onclick="toggleVisibility('${title_}')">
