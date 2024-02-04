@@ -36,7 +36,7 @@ function genererResume(webtoons) {
                     <strong> Taille d'un chapitre </strong> : ${webtoon.chapterSize} <br\> <br\>
                     <strong> Description Courte </strong> : ${webtoon.description} <br\> <br\>
                     <strong> Avis Personnel </strong> : ${webtoon.personalReview} <br\> <br\>
-                    <strong> Lien </strong>: <a href="${webtoon.link}">lien vers le webtoon</a> <br\> <br\>
+                    <strong> Lien </strong>: <a href="${webtoon.link}" target="_blank">lien vers le webtoon </a> <br\> <br\>
                     <strong> Dernière date d'édition </strong>: ${webtoon.lastEditDate} <br\> <br\>
                 </p>
             </div>
