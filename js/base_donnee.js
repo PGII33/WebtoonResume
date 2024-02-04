@@ -185,14 +185,17 @@ var webtoons = [
     },
 
     {
-        title: "Villain To Kill",
-        genre: "Action",
+        title: "I'm the max level newbie",
+        genre: "Fantastique",
         status: "En cours",
         chapters: 112,
         chapterSize: "Moyen",
-        description: "Cassian est un héros légendaire, un « psyker » de première classe qui a perdu la vie, injustement accusé du meurtre de son collègue. À son réveil, il se retrouve dans le corps d’un jeune élève et découvre qu’il est devenu un de ces « vilains » qu’il chassait dans sa vie précédente...! Cassian devra désormais compter sur « Moros » une mystérieuse créature, pour combattre le désir destructif qui s’empare constamment de son corps de vilain, afin de pouvoir se venger de ceux qui l’ont trahi dans sa vie passée. « Puisque c'est comme ça, je deviendrai le plus puissant des vilains à ma manière ! »",
-        personalReview: "Ici encore sur un monde avec des ranks, mais finalement assez différent. Je propose d'en lire un peu pour comprendre. Mais notre héros n'est pas un gentil, mais pas un méchant. Sa situation ambigüe est sympa à lire et peu de webtoon lui ressemblent. Je le recommande (il y a plus de chapitres en anglais).",
-        link: "https://www.webtoons.com/fr/action/villaintokill/list?title_no=3443",
+        description: "Alors qu'il finit un jeu réputé infaisable pour sa difficulté, le héros voit les tours qui le peuple apparaissent sur Terre ! Finis la vie misérable, il compte bien mettre à profit ses années d'expériences sur ce jeu que tous ont abandonné",
+        personalReview: `Classique mais toujours drôle, le personnage principal est un sale tape et il n'a parfois si peu de considération pour les autres que c'est extrêmement drôle, il mens, manipules, utilise, etc. Bien sûr en plus il y a la dimension fantastique (c'est le principal) mais je trouve que c'est plus du décor "classique" et que la partie importante est le personnage principal qui ne respecte absolument aucun code des systèmes jeux vidéo qui semblent gouverner ce nouveau monde`,
+        link: "https://www.webtoons.com/fr/fantasy/max-level-newbie/list?title_no=3517",
         lastEditDate: "14/11/23"
     }
 ];
+/*
+title: "I'm the max level newbie",
+*/
