@@ -194,8 +194,29 @@ var webtoons = [
         personalReview: `Classique mais toujours drôle, le personnage principal est un sale tape et il n'a parfois si peu de considération pour les autres que c'est extrêmement drôle, il mens, manipules, utilise, etc. Bien sûr en plus il y a la dimension fantastique (c'est le principal) mais je trouve que c'est plus du décor "classique" et que la partie importante est le personnage principal qui ne respecte absolument aucun code des systèmes jeux vidéo qui semblent gouverner ce nouveau monde`,
         link: "https://www.webtoons.com/fr/fantasy/max-level-newbie/list?title_no=3517",
         lastEditDate: "14/11/23"
+    },
+    
+    {
+        title: "Épée et quête",
+        genre: "comédie",
+        status: "En cours",
+        chapters: 76,
+        chapterSize: "très courts",
+        description: "le monde des jeux vidéo donne parfois lieu à des situations très drôles, suivez les aventures d'un joueur pas si malin et d'un slime qui rêve de tuer les joueurs à travers un monde de fantaisie très cliché.",
+        personalReview: "Des shorts très courts et drôles, sans une vraie histoire mais parfois avec des références entre épisodes, sympa et rapide",
+        link: "https://www.webtoons.com/fr/comedy/epee-et-quetes/list?title_no=5183",
+        lastEditDate: "10/11/23"
+    },
+
+    {
+    title: "Le prince mystique",
+    genre: "drama/humour/romance/fiction/intrigue/action/fantastique (histoire d'une vie)",
+    status: "En cours",
+    chapters: 77,
+    chapterSize: "Long",
+    description: "Lassé de défendre les hommes contre les fantômes avides d'âme, les dieux décidèrent qu'un homme serait choisi tous les 500 ans parmi ceux capables de manier le pouvoir divin, et que celui-ci recevra des dieux l'immortalité, la force, et le devoir de protéger le monde. Après 1000 ans de silence, les deux ont envoyé un oracle : la compétition pour choisir le futur empereur parmi les 20 candidats, va commencer.",
+    personalReview: "Une œuvre très belle, très bien amenée, sur le 4ème prince. Entre histoire douloureuse, romance impossible,  lutte, nostalgie, fatalité, complot, mensonge et joie, je trouve cette histoire poignante et très belle, agréable et triste, profonde. Contrairement à la plupart des histoires, celle-ci montre tous les aspects de la vie du protagoniste, et son originalité est bienvenue.",
+    link: "https://www.webtoons.com/fr/fantasy/le-prince-mystique/list?title_no=4459",
+    lastEditDate: "10/11/2023"
     }
 ];
-/*
-title: "I'm the max level newbie",
-*/
