@@ -1,51 +1,93 @@
-
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    font-size: min(3vw, 15px);
-    font-family: 'Rubik+Doodle+Shadow';
 }
 
 :root {
-    --bg-color: #000000;
-    --text-color: #2ECC71;
-    --toggle-band-color: #154360;
+    --bg-color: #eaf7df; /* Couleur de fond principale (vert clair) */
+    --text-color: #165c26; /* Couleur du texte principal (vert foncé) */
+    --toggle-band-color: #88d498; /* Couleur du bandeau de bascule (vert moyen) */
 }
 
-.filtres {
+body {
     background-color: var(--bg-color);
-    color: var(--toggle-text-color);
-    text-align: center;
-    text-decoration: none;
-    font-size: min(5vw, 20px);
-}
-
-.toggle-text {
-    padding: min(1%, 8px);
-    margin: min(2%, 10px) 0%;
     color: var(--text-color);
-    background-color: var(--toggle-band-color);
-    font-size: min(5vw, 20px);
-    cursor: pointer;
-}
-
-/* Style du texte caché */
-.hidden-text {
-    display: none;
-    color: var(--text-color);
-}
-
-p strong {
-    font-weight: bold;
+    font-size: min(3vw, 15px);
+    font-family: 'Rubik', sans-serif; /* Ajoutez la police de votre choix */
 }
 
 #title {
     text-decoration: none;
     color: var(--text-color);
     font-size: min(10vw, 50px);
+    display: block;
+    margin: 1% auto; /* Marge verticale de 1% et marge horizontale automatique */
     text-align: center;
-    margin: 1% 0%;
+}
+
+/* Sélecteur pour les liens non visités */
+a {
+    color: green; /* Couleur du texte */
+    text-decoration: underline; /* Soulignement */
+}
+
+/* Sélecteur pour les liens visités */
+a:visited {
+    color: green; /* Couleur du texte */
+    text-decoration: underline; /* Soulignement */
+}
+
+/* Sélecteur pour les liens au survol de la souris */
+a:hover {
+    color: darkgreen; /* Couleur du texte au survol */
+    text-decoration: underline; /* Soulignement au survol */
+}
+
+/* Style du menu déroulant */
+#genreFilter {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; /* Ajoutez la taille de police que vous souhaitez */
+    padding: 10px;
+    border: 1px solid var(--toggle-band-color);
+    margin: 10px;
+}
+
+/* Style des options du menu déroulant */
+#genreFilter option {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Ajout d'un effet de survol pour les options */
+#genreFilter option:hover {
+    background-color: var(--toggle-band-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Style du texte caché */
+.hidden-text {
+    display: none;
+    color: var(--text-color);
+    padding: 10px;
+    border: 1px solid var(--toggle-band-color);
+    background-color: var(--bg-color);
+    margin: 10px;
+}
+
+.toggle-text {
+    padding: min(1%, 8px);
+    margin: 0;
+    background-color: var(--toggle-band-color);
+    color: var(--text-color);
+    font-size: min(5vw, 20px);
+    cursor: pointer;
+    border: none;
+}
+
+.webtoon-info {
+    margin-bottom: min(1%, 8px);
 }
