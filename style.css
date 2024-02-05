@@ -87,3 +87,7 @@ a:hover {
     cursor: pointer;
     border: none;
 }
+
+.webtoon-info {
+    margin-bottom: min(1%, 8px);
+}
