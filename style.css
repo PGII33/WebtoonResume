@@ -5,13 +5,13 @@
 }
 
 :root {
-    --bg-color: #eaf7df; /* Couleur de fond principale (vert clair) */
+    --bg-color: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%); /* Couleur de fond principale, un linear gradient de vert */
     --text-color: #165c26; /* Couleur du texte principal (vert foncé) */
-    --toggle-band-color: #88d498; /* Couleur du bandeau de bascule (vert moyen) */
+    --toggle-band-color: linear-gradient(90deg, #50C878 0%, #5F9EA0 100%); /* Couleur du bandeau de bascule (vert moyen) */
 }
 
 body {
-    background-color: var(--bg-color);
+    background-image: var(--bg-color);
     color: var(--text-color);
     font-size: min(3vw, 15px);
     font-family: 'Rubik', sans-serif; /* Ajoutez la police de votre choix */
@@ -29,7 +29,7 @@ body {
 /* Sélecteur pour les liens non visités */
 a {
     color: green; /* Couleur du texte */
-    text-decoration: underline; /* Soulignement */
+    text-decoration: none; /* Soulignement */
 }
 
 /* Sélecteur pour les liens visités */
@@ -46,14 +46,13 @@ a:hover {
 
 /* Style du menu déroulant */
 #genreFilter {
-    background-color: var(--bg-color) !important;
-    color: var(--text-color) !important;
+    background-color: var(--bg-color);
     text-align: center;
-    text-decoration: none;
-    font-size: 16px; /* Ajoutez la taille de police que vous souhaitez */
+    font-size: 1em; /* Ajoutez la taille de police que vous souhaitez */
     padding: 10px;
-    border: 1px solid var(--toggle-band-color);
+    border: 0.1em solid !important; 
     margin: 10px;
+    border-radius: 1em;
 }
 
 /* Style des options du menu déroulant */
@@ -68,26 +67,32 @@ a:hover {
     color: var(--text-color) !important;
 }
 
+#genreFilter option{
+    background-color: var(--bg-color);
+}
+
 /* Style du texte caché */
 .hidden-text {
     display: none;
     color: var(--text-color);
-    padding: 10px;
-    border: 1px solid var(--toggle-band-color);
-    background-color: var(--bg-color);
-    margin: 10px;
+    padding: 1em;
+    border: 0.1em solid ;
+    border-radius: 0.5em;
+    background-color: var(--toggle-band-color);
+    margin: 1em;
 }
 
 .toggle-text {
     padding: min(1%, 8px);
-    margin: 0;
-    background-color: var(--toggle-band-color);
+    margin: 1em;
+    background-image: var(--toggle-band-color);
     color: var(--text-color);
-    font-size: min(5vw, 20px);
+    font-size: 1.2em;
     cursor: pointer;
     border: none;
+    border-radius: 0.5em;
 }
 
 .webtoon-info {
-    margin-bottom: min(1%, 8px);
+    margin-bottom: 1em;
 }
