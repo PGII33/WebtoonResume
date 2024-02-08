@@ -51,6 +51,7 @@ function genererResume(webtoons) {
 
 // Cette fonction permet le filtrage par genre
 function filtrerParGenre() {
+    fermerToutesLesBannieres();
     const genreSelectionne = document.getElementById('genreFilter').value;
     const elementsWebtoon = document.getElementsByClassName('toggle-text');
 
@@ -60,5 +61,13 @@ function filtrerParGenre() {
         } else {
             element.style.display = 'none';
         }
+    }
+}
+
+function fermerToutesLesBannieres() {
+    const elementsWebtoon = document.getElementsByClassName('hidden-text');
+
+    for (const element of elementsWebtoon){
+        element.style.display = 'none';
     }
 }
