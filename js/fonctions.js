@@ -21,10 +21,11 @@ function genererResume(webtoons) {
         
         let genre = webtoon.genre.replace(/\//g, '')
         let title_ = webtoon.title.replace(/ /g, '_')
+        let status_ = webtoon.status.replace(/ /g, '_')
         title_ = webtoon.title.replace(/'/g, '_')
         html += `
         <div class="webtoon">
-            <div class="toggle-text ${genre}" onclick="toggleVisibility('${title_}')">
+            <div class="toggle-text ${genre} ${status_}" onclick="toggleVisibility('${title_}')">
                 <strong>${webtoon.title}</strong>
             </div>
             
@@ -51,6 +52,7 @@ function genererResume(webtoons) {
 
 // Cette fonction permet le filtrage par genre
 function filtrerParGenre() {
+    fermerToutesLesBannieres();
     const genreSelectionne = document.getElementById('genreFilter').value;
     const elementsWebtoon = document.getElementsByClassName('toggle-text');
 
@@ -60,5 +62,27 @@ function filtrerParGenre() {
         } else {
             element.style.display = 'none';
         }
+    }
+}
+
+function filtrerParStatus(){
+    fermerToutesLesBannieres();
+    const statusSelectionne = document.getElementById('statusFilter').value;
+    const elementsWebtoon = document.getElementsByClassName('toggle-text');
+
+    for (const element of elementsWebtoon) {
+        if (statusSelectionne === 'Tous' || element.classList.contains(statusSelectionne)) {
+            element.style.display = 'block';
+        } else {
+            element.style.display = 'none';
+        }
+    }
+}
+
+function fermerToutesLesBannieres() {
+    const elementsWebtoon = document.getElementsByClassName('hidden-text');
+
+    for (const element of elementsWebtoon){
+        element.style.display = 'none';
     }
 }
