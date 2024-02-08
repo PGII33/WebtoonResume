@@ -96,3 +96,7 @@ a:hover {
 .webtoon-info {
     margin-bottom: 1em;
 }
+
+label{
+    margin-left: 1.5em;
+}
