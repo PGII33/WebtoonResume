@@ -52,7 +52,8 @@ var webtoons = [
     {
         title: "La mariée du roi dragon",
         genre: "Romance / Fantastique / Drama",
-        status: "Pas terminé, 31 épisode",
+        status: "En cours",
+        chapters : 31,
         chapterSize: "Long / Court",
         description: "Nous allons suivre l'histoire d'une jeune femme au nom de Lucina, née fille illégitime d'un baron. Sa famille ainsi que les domestiques de la maison lui mènera la vie dure. Sa famille l'a également promise au roi du pays, connu pour tuer ses conquêtes lorsque celui-ci se lasse d'elle. Mais un beau jour, en crainte de leurs vie, la famille de Lucina la vendue au dénommé roi des barbares qui l'enleva enfin pour faire d'elle sa femme.",
         personalReview: "Perso je trouve que l'histoire entre les 2 protagonistes va assez vite et que ça perd son intérêt petit à petit. Mais sinon en soit, malgré la rapidité de l'histoire et le fait que ça ne colle pas trop avec le personnage principal, j'aime quand même bien l'histoire et en plus je trouve que les dessins sont très beaux aussi!",
@@ -63,7 +64,8 @@ var webtoons = [
     {
         title: "Like Wind on a Dry Branch",
         genre: "Fantastique / Romance",
-        status: "Pas terminé, 140 épisodes",
+        status: "En cours",
+        chapters: 140,
         chapterSize: "Long / Court",
         description: "Rietta Tristi est une jeune femme vivant dans une époque où les 'démons', plus précisément la peste, fait rage. La maladie ayant emporté son mari, elle se retrouve face à la menace d'un noble malveillant, voulant faire d'elle sa femme. Celui-ci fit enlever sa fille afin de la vendre en esclavage suite à son refus. Avant sa mort, il demanda à ce que Rietta soit enterrée vivante à ses côtés. Cependant, la vie de la jeune femme se voit sauver par la visite surprise d'un prince déchu.",
         personalReview: "Perso j'aime bien le webtoon, il y a du drama mais c'est un webtoon qui reste calme, doux et apaisant, que ce soit au niveau de l'histoire qu'au niveau des dessins. Je trouve même que ce webtoon reste l'un, voire le plus beau webtoon que j'ai lu jusqu'ici. Je conseille de le lire si vous cherchez un peu de douceur.",
@@ -74,7 +76,7 @@ var webtoons = [
     {
         title: "For my derelict favorite",
         genre: "Romance / Comique",
-        status: "En pause (s1 terminée)",
+        status: "En cours",
         chapters: 55 + 1,
         chapterSize: "Moyen",
         description: "Nous savons souvent comment se déroule une histoire dans un livre, mais savons-nous ce qui se passe après le 'heureux jusqu'à la fin des temps'? C'est une réponse que nous aurons en suivant l'histoire Hestia. Hestia est une jeune femme ayant été assassinée dans son ancienne vie. Cependant, la vie lui octroie une réincarnation qui lui plaît fortement. Étant une grande fangirl de roman, quelle a été sa surprise en se réveillant dans l'univers de son roman préféré!",
@@ -151,7 +153,7 @@ var webtoons = [
     {
         title: "The Lazy Lord Masters the Sword",
         genre: "Action / SoL / Fantastique",
-        status: "S1 terminée, en attente de la saison 2",
+        status: "En cours",
         chapters: 86,
         chapterSize: "Long / Moyen",
         description: "Après avoir assisté impuissant à la mort de sa mère, le jeune Airn Pareira profite du sommeil pour échapper à la dure réalité, ce qui lui vaut le surnom de « lord paresseux ». Pourtant, malgré ce que les autres disent de lui, Airn n'a pas l'intention de changer ses habitudes. Mais la vie de ce dernier va prendre un tout autre tournant lorsqu’un jour il se réveille d'un rêve sur un mystérieux épéiste.",
