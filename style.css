@@ -45,7 +45,7 @@ a:hover {
 }
 
 /* Style du menu déroulant */
-#genreFilter {
+#genreFilter, #statusFilter {
     background-color: var(--bg-color);
     text-align: center;
     font-size: 1em; /* Ajoutez la taille de police que vous souhaitez */
@@ -56,18 +56,18 @@ a:hover {
 }
 
 /* Style des options du menu déroulant */
-#genreFilter option {
+#genreFilter option,  #statusFilter option{
     background-color: var(--bg-color) !important;
     color: var(--text-color) !important;
 }
 
 /* Ajout d'un effet de survol pour les options */
-#genreFilter option:hover {
+#genreFilter option:hover, #statusFilter option:hover {
     background-color: var(--toggle-band-color) !important;
     color: var(--text-color) !important;
 }
 
-#genreFilter option{
+#genreFilter option, #statusFilter option{
     background-color: var(--bg-color);
 }
 
