@@ -12,17 +12,16 @@ function toggleVisibility(id) {
 }
 
 
-
 // Cette fonction permet de séparer du texte brut en catégories et en texte
 function genererResume(webtoons) {
     let html = '<div class="webtoon-container">'; // Ajout d'un conteneur pour les webtoons
 
     for (const webtoon of webtoons) {
-        
-        let genre = webtoon.genre.replace(/\//g, '')
-        let title_ = webtoon.title.replace(/ /g, '_')
-        let status_ = webtoon.status.replace(/ /g, '_')
-        title_ = webtoon.title.replace(/'/g, '_')
+        let genre = webtoon.genre.replace(/\//g, '');
+        let title_ = webtoon.title.replace(/ /g, '_');
+        let status_ = webtoon.status.replace(/ /g, '_');
+        title_ = webtoon.title.replace(/'/g, '_');
+
         html += `
         <div class="webtoon">
             <div class="toggle-text ${genre} ${status_}" onclick="toggleVisibility('${title_}')">
@@ -36,8 +35,17 @@ function genererResume(webtoons) {
                     <strong> Statut </strong> : ${webtoon.status} <br\> <br\>
                     <strong> Nombre de Chapitres </strong> : ${webtoon.chapters} <br\> <br\>
                     <strong> Taille d'un chapitre </strong> : ${webtoon.chapterSize} <br\> <br\>
-                    <strong> Description Courte </strong> : ${webtoon.description} <br\> <br\>
-                    <strong> Avis Personnel </strong> : ${webtoon.personalReview} <br\> <br\>
+                    <strong> Description Courte </strong> : ${webtoon.description}<br\><br\>
+                    <strong> Avis </strong> :  <br\> <br\>`;
+
+        // Ajouter des avis par pseudos
+        for (const comment of webtoon.Review) {
+            for (const [pseudo, content] of Object.entries(comment)) {
+                html += `<span class="reviews"><strong>${pseudo}</strong>: ${content}</span> <br\>`;
+            }
+        }
+
+        html += `<br\><br\>
                     <strong> Lien </strong>: <a href="${webtoon.link}" target="_blank">lien vers le webtoon </a> <br\> <br\>
                     <strong> Dernière date d'édition </strong>: ${webtoon.lastEditDate} <br\> <br\>
                 </p>
@@ -49,6 +57,7 @@ function genererResume(webtoons) {
 
     return html;
 }
+
 
 // Cette fonction permet le filtrage par genre
 function filtrerParGenre() {
