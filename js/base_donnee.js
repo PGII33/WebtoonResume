@@ -108,7 +108,7 @@ var webtoons = [
         "Review" : [{ 
             "Darkendo": "C'est un webtoon que j'aime beaucoup, je l'attends toujours avec impatience à chaque sortie de chapitre. L'histoire est bien écrite et les personnages sont attachants. J'aime bien l'idée du personnage principal qui se retrouve dans un monde de roman et qui peut enregistrer et charger des états de sauvegarde, ça donne lieu à des situations assez drôles et inattendues. Les dessins sont également de qualité."
     }],  
-    "link": "https://www.webtoons.com/fr/fantasy/omniscient-reader/viewer/list?title_no=2868",
+    "link": "https://www.webtoons.com/fr/fantasy/omniscient-reader/list?title_no=2175",
         "lastEditDate": "9/11/23"
     },
 
