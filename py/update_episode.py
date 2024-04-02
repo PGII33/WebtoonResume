@@ -3,17 +3,21 @@
 import requests
 from bs4 import BeautifulSoup
 
-# URL du webtoon
-URL = ""
+def get_episode_count(URL):
+    '''Function to get the number of pages of a webtoon'''
+    # Faire une requête HTTP pour récupérer le contenu de la page
+    page = requests.get(URL)
+    print(URL)
 
-# Faire une requête HTTP pour récupérer le contenu de la page
-page = requests.get(URL)
+    # Créer un objet BeautifulSoup pour analyser la page
+    soup = BeautifulSoup(page.text, 'html.parser')
 
-# Créer un objet BeautifulSoup pour analyser la page
-soup = BeautifulSoup(page.text, 'html.parser')
+    # Trouver le nombre d'épisodes à partir de l'élément "span" avec l'attribut "data-episode-count"
+    episode_count_element = soup.find(class_ = "_episodeItem")
+    try:
+        episode_count_element = soup.find(class_ ="tx").text
+        episode_count_element = episode_count_element[1:]
+    except AttributeError:
+        episode_count_element = "Error: Episode count not found"
 
-# Trouver le nombre d'épisodes à partir de l'élément "span" avec l'attribut "data-episode-count"
-episode_count_element = soup.find(class_ = "_episodeItem")
-episode_count_element = soup.find(class_ ="tx").text
-episode_count_element = episode_count_element[1:]
-print(episode_count_element)
+    return episode_count_element
