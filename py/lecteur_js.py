@@ -2,11 +2,13 @@ import json
 import re
 import update_episode
 
-# Specify the path to the JavaScript file
-file_path = "../js/base_donnee.js"
-
-def extract_json(js_data):
+def extract_json(file_path):
     '''Function to extract JSON data from JavaScript code'''
+
+    # Read the contents of the JavaScript file
+    with open(file_path, "r", encoding="utf-8") as file:
+        js_data = file.read()
+
     # Remove any leading/trailing JavaScript code
     js_data = js_data.strip()
 
@@ -32,21 +34,3 @@ def update_episode_count(data):
         item["chapters"] = update_episode.get_episode_count(item["link"])
 
     return data
-
-
-
-# Read the contents of the JavaScript file
-with open(file_path, "r") as file:
-    js_data = file.read()
-
-# Extract the JSON data from the JavaScript code
-json_data = extract_json(js_data)
-
-# Parse the JSON data into a Python object
-data = parse_json(json_data)
-
-# Convert each "Review" object into a dictionary
-data = convert_review_objects(data)
-
-# Update the value of the "Episode" key in all items
-data = update_episode_count(data)
