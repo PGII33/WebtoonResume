@@ -31,6 +31,6 @@ def convert_review_objects(data):
 def update_episode_count(data):
     '''Function to update the value of the "Episode" key in all items using the "get_episode_count" function'''
     for item in data:
-        item["chapters"] = update_episode.get_episode_count(item["link"])
+        item["chapters"] = max(update_episode.get_episode_count(item["link"]), item["chapters"])
 
     return data
