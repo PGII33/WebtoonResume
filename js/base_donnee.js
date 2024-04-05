@@ -2,13 +2,13 @@ var webtoons = [
     {
         "title": "Batard",
         "genre": "Thriller",
-        "status": "Termin\u00e9",
+        "status": "Terminé",
         "chapters": "11",
         "chapterSize": "Court",
-        "description": "Nous allons suivre le quotidien d'un fils ainsi que de son p\u00e8re, qui n'ont pas un quotidien des plus classiques. Pourquoi le p\u00e8re tue-t-il autrui ? Que s'est-il pass\u00e9 avec la m\u00e8re ? Quels sont les anciens souvenirs perdus de l'enfant ? Toutes ces questions font partie de l'intrigue principale de ce Webtoon horreur.",
+        "description": "Nous allons suivre le quotidien d'un fils ainsi que de son père, qui n'ont pas un quotidien des plus classiques. Pourquoi le père tue-t-il autrui ? Que s'est-il passé avec la mère ? Quels sont les anciens souvenirs perdus de l'enfant ? Toutes ces questions font partie de l'intrigue principale de ce Webtoon horreur.",
         "Review": [
             {
-                "PGII": "Je n'ai pas beaucoup vu de Thriller mais celui-ci m'a beaucoup plu, on suit l'\u00e9volution du personnage principal avec grand int\u00e9r\u00eat, les moments de frissons sont bien rythm\u00e9s, on compatis pour le personnage et comprend en m\u00eame temps que lui ce qui lui arrive."
+                "PGII": "Je n'ai pas beaucoup vu de Thriller mais celui-ci m'a beaucoup plu, on suit l'évolution du personnage principal avec grand intérêt, les moments de frissons sont bien rythmés, on compatis pour le personnage et comprend en même temps que lui ce qui lui arrive."
             }
         ],
         "link": "https://www.webtoons.com/fr/thriller/bastard/list?title_no=1830",
@@ -17,13 +17,13 @@ var webtoons = [
     {
         "title": "Capitaine Zorgue",
         "genre": "Comedie / SoL",
-        "status": "Termin\u00e9",
+        "status": "Terminé",
         "chapters": "237",
         "chapterSize": "Court",
-        "description": "La Terre a construit un vaisseau ultra performant pour se sauver de notre plan\u00e8te qui se meurt peu \u00e0 peu. Elle a donc choisi les meilleurs pour partir dans une mission sans retour afin de trouver une nouvelle plan\u00e8te habitable. Les meilleurs ayant refus\u00e9, on a fait un \u00e9quipage avec ceux qui restaient. Le Capitaine Zorgue est le capitaine de ce super vaisseau et de son tout aussi superbe \u00e9quipage.",
+        "description": "La Terre a construit un vaisseau ultra performant pour se sauver de notre planète qui se meurt peu à peu. Elle a donc choisi les meilleurs pour partir dans une mission sans retour afin de trouver une nouvelle planète habitable. Les meilleurs ayant refusé, on a fait un équipage avec ceux qui restaient. Le Capitaine Zorgue est le capitaine de ce super vaisseau et de son tout aussi superbe équipage.",
         "Review": [
             {
-                "PGII": "Une tr\u00e8s bonne com\u00e9die, le personnage est attachant, certains personnages servent de running gag bien utilis\u00e9. Les graphismes sont simples et l'histoire dr\u00f4le."
+                "PGII": "Une très bonne comédie, le personnage est attachant, certains personnages servent de running gag bien utilisé. Les graphismes sont simples et l'histoire drôle."
             }
         ],
         "link": "https://www.webtoons.com/fr/sf/capitaine-zorgue/list?title_no=2370",
@@ -35,11 +35,11 @@ var webtoons = [
         "status": "En cours",
         "chapters": "182",
         "chapterSize": "Moyen",
-        "description": "Apr\u00e8s avoir \u00e9t\u00e9 enferm\u00e9 pendant 12 ans dans la tour tutoriel, le monde me consid\u00e9rait comme un expert. Maintenant que je suis sorti, ma vraie aventure commence !",
+        "description": "Après avoir été enfermé pendant 12 ans dans la tour tutoriel, le monde me considérait comme un expert. Maintenant que je suis sorti, ma vraie aventure commence !",
         "Review": [
             {
-                "PGII": "Une histoire assez banale avec un principe de tours \u00e0 monter, r\u00e9current dans pas mal de webtoons. Selon moi, ce webtoon est bien sans plus. Si vous n'accrochez de base que moyennement \u00e0 ce type de webtoon, il y a mieux, plus diversifi\u00e9. Celui-ci a son syst\u00e8me mais ne sort pas vraiment de l'ordinaire. Malgr\u00e9 tout, si vous cherchez juste \u00e0 lire quelque chose pour passer le temps, il s'agit alors d'un tr\u00e8s bon webtoon.",
-                "Darkendo": "Je le lisais, au d\u00e9but il y avait pas mal d'humour, mais plus on avance plus on s'\u00e9loigne du personnage de base et plus les 'blagues' tournent en rond. Donc j'ai laiss\u00e9 tomb\u00e9 autour de l'\u00e9pisode 120."
+                "PGII": "Une histoire assez banale avec un principe de tours à monter, récurrent dans pas mal de webtoons. Selon moi, ce webtoon est bien sans plus. Si vous n'accrochez de base que moyennement à ce type de webtoon, il y a mieux, plus diversifié. Celui-ci a son système mais ne sort pas vraiment de l'ordinaire. Malgré tout, si vous cherchez juste à lire quelque chose pour passer le temps, il s'agit alors d'un très bon webtoon.",
+                "Darkendo": "Je le lisais, au début il y avait pas mal d'humour, mais plus on avance plus on s'éloigne du personnage de base et plus les 'blagues' tournent en rond. Donc j'ai laissé tombé autour de l'épisode 120."
             }
         ],
         "link": "https://www.webtoons.com/fr/fantasy/expert-de-la-tour-tutoriel/list?title_no=2312",
@@ -47,29 +47,29 @@ var webtoons = [
     },
     {
         "title": "Prodige Hors Norme",
-        "genre": "Fantastique / Action / Com\u00e9die",
+        "genre": "Fantastique / Action / Comédie",
         "status": "En cours",
         "chapters": "37",
         "chapterSize": "Moyen",
-        "description": "Kwang-ik est un jeune de 20 ans, et il apprend un jour qu'il est m\u00e9tis de deux races sp\u00e9ciales, un cas peu commun. Ses parents, qui avaient tous les deux cach\u00e9 leur race l'un de l'autre, commencent \u00e0 pr\u00e9parer leur fils avec des entra\u00eenements typiques \u00e0 leur race. Avec ces entra\u00eenements, Kwang-ik apprend qu'il poss\u00e8de un m\u00e9lange de pouvoirs des deux races, ce qui le rend plus puissant qu'un Immortel ou un M\u00e9tamorphe de sang pur. Une fois les entra\u00eenements de base termin\u00e9s, il d\u00e9cide de rejoindre une entreprise d'Immortels par la proposition de son p\u00e8re.",
+        "description": "Kwang-ik est un jeune de 20 ans, et il apprend un jour qu'il est métis de deux races spéciales, un cas peu commun. Ses parents, qui avaient tous les deux caché leur race l'un de l'autre, commencent à préparer leur fils avec des entraînements typiques à leur race. Avec ces entraînements, Kwang-ik apprend qu'il possède un mélange de pouvoirs des deux races, ce qui le rend plus puissant qu'un Immortel ou un Métamorphe de sang pur. Une fois les entraînements de base terminés, il décide de rejoindre une entreprise d'Immortels par la proposition de son père.",
         "Review": [
             {
-                "PGII": "Franchement, une bonne s\u00e9rie pour se d\u00e9tendre, l'humour est pr\u00e9sent \u00e0 foison, l'action aussi. Le m\u00e9lange des 2 races nous donne des quiproquos dr\u00f4les mais facilite aussi la vie du personnage principal qui lui aime bien emb\u00eater autrui. Il est impulsif mais dr\u00f4le et attachant."
+                "PGII": "Franchement, une bonne série pour se détendre, l'humour est présent à foison, l'action aussi. Le mélange des 2 races nous donne des quiproquos drôles mais facilite aussi la vie du personnage principal qui lui aime bien embêter autrui. Il est impulsif mais drôle et attachant."
             }
         ],
         "link": "https://www.webtoons.com/fr/fantasy/prodige-hors-norme/list?title_no=5582",
         "lastEditDate": "9/11/23"
     },
     {
-        "title": "La mari\u00e9e du roi dragon",
+        "title": "La mariée du roi dragon",
         "genre": "Romance / Fantastique / Drama",
         "status": "En cours",
         "chapters": "52",
         "chapterSize": "Long / Court",
-        "description": "Nous allons suivre l'histoire d'une jeune femme au nom de Lucina, n\u00e9e fille ill\u00e9gitime d'un baron. Sa famille ainsi que les domestiques de la maison lui m\u00e8nera la vie dure. Sa famille l'a \u00e9galement promise au roi du pays, connu pour tuer ses conqu\u00eates lorsque celui-ci se lasse d'elle. Mais un beau jour, en crainte de leurs vie, la famille de Lucina la vendue au d\u00e9nomm\u00e9 roi des barbares qui l'enleva enfin pour faire d'elle sa femme.",
+        "description": "Nous allons suivre l'histoire d'une jeune femme au nom de Lucina, née fille illégitime d'un baron. Sa famille ainsi que les domestiques de la maison lui mènera la vie dure. Sa famille l'a également promise au roi du pays, connu pour tuer ses conquêtes lorsque celui-ci se lasse d'elle. Mais un beau jour, en crainte de leurs vie, la famille de Lucina la vendue au dénommé roi des barbares qui l'enleva enfin pour faire d'elle sa femme.",
         "Review": [
             {
-                "Pandi": "Perso je trouve que l'histoire entre les 2 protagonistes va assez vite et que \u00e7a perd son int\u00e9r\u00eat petit \u00e0 petit. Mais sinon en soit, malgr\u00e9 la rapidit\u00e9 de l'histoire et le fait que \u00e7a ne colle pas trop avec le personnage principal, j'aime quand m\u00eame bien l'histoire et en plus je trouve que les dessins sont tr\u00e8s beaux aussi!"
+                "Pandi": "Perso je trouve que l'histoire entre les 2 protagonistes va assez vite et que ça perd son intérêt petit à petit. Mais sinon en soit, malgré la rapidité de l'histoire et le fait que ça ne colle pas trop avec le personnage principal, j'aime quand même bien l'histoire et en plus je trouve que les dessins sont très beaux aussi!"
             }
         ],
         "link": "https://www.webtoons.com/fr/romance/la-mariee-du-roi-dragon/list?title_no=5339",
@@ -81,10 +81,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "161",
         "chapterSize": "Long / Court",
-        "description": "Rietta Tristi est une jeune femme vivant dans une \u00e9poque o\u00f9 les 'd\u00e9mons', plus pr\u00e9cis\u00e9ment la peste, fait rage. La maladie ayant emport\u00e9 son mari, elle se retrouve face \u00e0 la menace d'un noble malveillant, voulant faire d'elle sa femme. Celui-ci fit enlever sa fille afin de la vendre en esclavage suite \u00e0 son refus. Avant sa mort, il demanda \u00e0 ce que Rietta soit enterr\u00e9e vivante \u00e0 ses c\u00f4t\u00e9s. Cependant, la vie de la jeune femme se voit sauver par la visite surprise d'un prince d\u00e9chu.",
+        "description": "Rietta Tristi est une jeune femme vivant dans une époque où les 'démons', plus précisément la peste, fait rage. La maladie ayant emporté son mari, elle se retrouve face à la menace d'un noble malveillant, voulant faire d'elle sa femme. Celui-ci fit enlever sa fille afin de la vendre en esclavage suite à son refus. Avant sa mort, il demanda à ce que Rietta soit enterrée vivante à ses côtés. Cependant, la vie de la jeune femme se voit sauver par la visite surprise d'un prince déchu.",
         "Review": [
             {
-                "Pandi": "Perso j'aime bien le webtoon, il y a du drama mais c'est un webtoon qui reste calme, doux et apaisant, que ce soit au niveau de l'histoire qu'au niveau des dessins. Je trouve m\u00eame que ce webtoon reste l'un, voire le plus beau webtoon que j'ai lu jusqu'ici. Je conseille de le lire si vous cherchez un peu de douceur."
+                "Pandi": "Perso j'aime bien le webtoon, il y a du drama mais c'est un webtoon qui reste calme, doux et apaisant, que ce soit au niveau de l'histoire qu'au niveau des dessins. Je trouve même que ce webtoon reste l'un, voire le plus beau webtoon que j'ai lu jusqu'ici. Je conseille de le lire si vous cherchez un peu de douceur."
             }
         ],
         "link": "https://www.webtoons.com/fr/fantasy/like-wind-on-a-dry-branch/list?title_no=2572",
@@ -96,10 +96,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "3",
         "chapterSize": "Moyen",
-        "description": "Nous savons souvent comment se d\u00e9roule une histoire dans un livre, mais savons-nous ce qui se passe apr\u00e8s le 'heureux jusqu'\u00e0 la fin des temps'? C'est une r\u00e9ponse que nous aurons en suivant l'histoire Hestia. Hestia est une jeune femme ayant \u00e9t\u00e9 assassin\u00e9e dans son ancienne vie. Cependant, la vie lui octroie une r\u00e9incarnation qui lui pla\u00eet fortement. \u00c9tant une grande fangirl de roman, quelle a \u00e9t\u00e9 sa surprise en se r\u00e9veillant dans l'univers de son roman pr\u00e9f\u00e9r\u00e9!",
+        "description": "Nous savons souvent comment se déroule une histoire dans un livre, mais savons-nous ce qui se passe après le 'heureux jusqu'à la fin des temps'? C'est une réponse que nous aurons en suivant l'histoire Hestia. Hestia est une jeune femme ayant été assassinée dans son ancienne vie. Cependant, la vie lui octroie une réincarnation qui lui plaît fortement. Étant une grande fangirl de roman, quelle a été sa surprise en se réveillant dans l'univers de son roman préféré!",
         "Review": [
             {
-                "Pandi": "\u00c7a semble un peu r\u00e9p\u00e9titif mais je le rassure, \u00e7a ne l'est pas. La premi\u00e8re r\u00e9incarnation est tr\u00e8s courte pour laisser plus de place \u00e0 la deuxi\u00e8me qui est beaucoup plus importante. Ce que j'aime bien dans ce webtoon c'est le fait que la fangirl me fait beaucoup rire. J'aime beaucoup l'histoire qui est cr\u00e9\u00e9e dans cet univers et j'aime aussi beaucoup le fait que, pour une fois, les m\u00e9chants sont les personnages principaux (pas les 2 persos principaux du webtoon, mais les 2 protagonistes de l'histoire dans laquelle Hestia s'est r\u00e9incarn\u00e9e). J'adore aussi beaucoup qu'elle les m\u00e8ne vraiment en bourrique. J'aime aussi beaucoup les dessins, mais \u00e7a c'est autre chose encore!"
+                "Pandi": "Ça semble un peu répétitif mais je le rassure, ça ne l'est pas. La première réincarnation est très courte pour laisser plus de place à la deuxième qui est beaucoup plus importante. Ce que j'aime bien dans ce webtoon c'est le fait que la fangirl me fait beaucoup rire. J'aime beaucoup l'histoire qui est créée dans cet univers et j'aime aussi beaucoup le fait que, pour une fois, les méchants sont les personnages principaux (pas les 2 persos principaux du webtoon, mais les 2 protagonistes de l'histoire dans laquelle Hestia s'est réincarnée). J'adore aussi beaucoup qu'elle les mène vraiment en bourrique. J'aime aussi beaucoup les dessins, mais ça c'est autre chose encore!"
             }
         ],
         "link": "https://www.webtoons.com/fr/romance/for-my-derelict-favorite/list?title_no=4957",
@@ -109,27 +109,27 @@ var webtoons = [
         "title": "Lecteur omniscient",
         "genre": "Action / Fantastique",
         "status": "En cours",
-        "chapters": "Error: Episode count not found",
+        "chapters": "199",
         "chapterSize": "Long",
-        "description": "Alors qu'il n'est qu'un \u00e9tudiant ordinaire, Kim Dojka finit le dernier chapitre de 'Trois fa\u00e7ons de survivre dans un monde en ruine', dont il est l'unique lecteur. La terre est alors secou\u00e9e par un tremblement de terre massif, et il se retrouve \u00e0 l'int\u00e9rieur du roman, face \u00e0 face avec les personnages qu'il a lus. De plus, il acquiert le pouvoir d'enregistrer et de charger des \u00e9tats de sauvegarde!",
+        "description": "Alors qu'il n'est qu'un étudiant ordinaire, Kim Dojka finit le dernier chapitre de 'Trois façons de survivre dans un monde en ruine', dont il est l'unique lecteur. La terre est alors secouée par un tremblement de terre massif, et il se retrouve à l'intérieur du roman, face à face avec les personnages qu'il a lus. De plus, il acquiert le pouvoir d'enregistrer et de charger des états de sauvegarde!",
         "Review": [
             {
-                "Darkendo": "C'est un webtoon que j'aime beaucoup, je l'attends toujours avec impatience \u00e0 chaque sortie de chapitre. L'histoire est bien \u00e9crite et les personnages sont attachants. J'aime bien l'id\u00e9e du personnage principal qui se retrouve dans un monde de roman et qui peut enregistrer et charger des \u00e9tats de sauvegarde, \u00e7a donne lieu \u00e0 des situations assez dr\u00f4les et inattendues. Les dessins sont \u00e9galement de qualit\u00e9."
+                "Darkendo": "C'est un webtoon que j'aime beaucoup, je l'attends toujours avec impatience à chaque sortie de chapitre. L'histoire est bien écrite et les personnages sont attachants. J'aime bien l'idée du personnage principal qui se retrouve dans un monde de roman et qui peut enregistrer et charger des états de sauvegarde, ça donne lieu à des situations assez drôles et inattendues. Les dessins sont également de qualité."
             }
         ],
-        "link": "https://www.webtoons.com/fr/fantasy/omniscient-reader/viewer/list?title_no=2868",
+        "link": "https://www.webtoons.com/fr/fantasy/omniscient-reader/list?title_no=2175",
         "lastEditDate": "9/11/23"
     },
     {
         "title": "Solo Hunting",
         "genre": "Action",
-        "status": "Termin\u00e9",
+        "status": "Terminé",
         "chapters": "7",
         "chapterSize": "Moyen",
-        "description": "Oh Yuseong travaille dans une sup\u00e9rette et vient de se faire larguer par sa copine qui ne le trouve pas assez ambitieux. Alors qu\u2019il touche le fond, une fissure devant lui lib\u00e8re un monstre qui s'en prend \u00e0 lui. Aux portes de la mort, le myst\u00e9rieux pouvoir de la 'chasse en mode automatique' s\u2019\u00e9veille en lui. Maintenant il n\u2019a plus qu\u2019\u00e0 le ma\u00eetriser pour devenir le meilleur des chasseurs !",
+        "description": "Oh Yuseong travaille dans une supérette et vient de se faire larguer par sa copine qui ne le trouve pas assez ambitieux. Alors qu’il touche le fond, une fissure devant lui libère un monstre qui s'en prend à lui. Aux portes de la mort, le mystérieux pouvoir de la 'chasse en mode automatique' s’éveille en lui. Maintenant il n’a plus qu’à le maîtriser pour devenir le meilleur des chasseurs !",
         "Review": [
             {
-                "None": "Pas encore \u00e9cris"
+                "None": "Pas encore écris"
             }
         ],
         "link": "https://www.webtoons.com/fr/action/solo-auto-hunting/list?title_no=3488",
@@ -141,10 +141,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "105",
         "chapterSize": "Moyen / Long",
-        "description": "Lorsque l\u2019apocalypse a \u00e9clat\u00e9, Jaehwan a \u00e9t\u00e9 convoqu\u00e9 par la \u00ab Tour des cauchemars \u00bb...",
+        "description": "Lorsque l’apocalypse a éclaté, Jaehwan a été convoqué par la « Tour des cauchemars »...",
         "Review": [
             {
-                "PGII": "Pas un simple syst\u00e8me de tour le plus basique, on voit vraiment la fa\u00e7on de penser du personnage qui \u00e9volue..."
+                "PGII": "Pas un simple système de tour le plus basique, on voit vraiment la façon de penser du personnage qui évolue..."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/the-world-after-the-fall/list?title_no=4193",
@@ -155,11 +155,11 @@ var webtoons = [
         "genre": "Action / SoL",
         "status": "En cours",
         "chapters": "210",
-        "chapterSize": "Je sais plus (si quelqu'un regarde il r\u00e9pond \u00e0 mon commentaire et j'\u00e9dite le post)",
-        "description": "L'obstination \u00e0 mourir de Kyeong-Ho s\u00e9duit Sierra, une faucheuse des enfers, qui lui propose un pacte. Ce pacte lui donne la possibilit\u00e9 d'emprunter les pouvoirs des morts en \u00e9change d'ann\u00e9es de vie. Afin d'obtenir ce qu'il d\u00e9sire, il finit par l'accepter.",
+        "chapterSize": "Je sais plus (si quelqu'un regarde il répond à mon commentaire et j'édite le post)",
+        "description": "L'obstination à mourir de Kyeong-Ho séduit Sierra, une faucheuse des enfers, qui lui propose un pacte. Ce pacte lui donne la possibilité d'emprunter les pouvoirs des morts en échange d'années de vie. Afin d'obtenir ce qu'il désire, il finit par l'accepter.",
         "Review": [
             {
-                "PGII": "De la romance est pr\u00e9sente, pas d\u00e9rangeante pour autant, l'histoire oscille entre les int\u00e9r\u00eats du personnage et ce qui ce passe dans son entourage, le personnage principal est \u00e0 la fois r\u00e9fl\u00e9chis et plut\u00f4t t\u00eate brul\u00e9, il comprend au fil du temps de nouvelle fa\u00e7on d'utiliser son pouvoir, ici l'originalit\u00e9 viens aussi du fait qu'on oublie au fil de l'histoire le temps de vie qu'il le lui reste \u00e0 cause de cette \u00e9change justement."
+                "PGII": "De la romance est présente, pas dérangeante pour autant, l'histoire oscille entre les intérêts du personnage et ce qui ce passe dans son entourage, le personnage principal est à la fois réfléchis et plutôt tête brulé, il comprend au fil du temps de nouvelle façon d'utiliser son pouvoir, ici l'originalité viens aussi du fait qu'on oublie au fil de l'histoire le temps de vie qu'il le lui reste à cause de cette échange justement."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/heroticket/list?title_no=2178",
@@ -171,10 +171,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "56",
         "chapterSize": "Moyen",
-        "description": "Demon Arut est le capitaine de la L\u00e9gion z\u00e9ro, l'un des treize ordres au service du roi des d\u00e9mons. Bien qu'il soit humain, son seul nom suffit \u00e0 faire trembler d'effroi ceux qui l'entendent, car il est cruel et impitoyable. Enfin \u00e7a, c'est la version officielle. En r\u00e9alit\u00e9, il s'appelle Deon Hart, manque de s'\u00e9vanouir \u00e0 la moindre anxi\u00e9t\u00e9 et s'est retrouv\u00e9 \u00e0 la t\u00eate de la L\u00e9gion z\u00e9ro sur un malentendu. Il n'aspire donc qu'\u00e0 une chose : s'enfuir du royaume des d\u00e9mons avant que le pot aux roses ne soit d\u00e9couvert. Une t\u00e2che cependant bien ardue lorsque l'on est le prodige ador\u00e9 du souverain d\u00e9moniaque...",
+        "description": "Demon Arut est le capitaine de la Légion zéro, l'un des treize ordres au service du roi des démons. Bien qu'il soit humain, son seul nom suffit à faire trembler d'effroi ceux qui l'entendent, car il est cruel et impitoyable. Enfin ça, c'est la version officielle. En réalité, il s'appelle Deon Hart, manque de s'évanouir à la moindre anxiété et s'est retrouvé à la tête de la Légion zéro sur un malentendu. Il n'aspire donc qu'à une chose : s'enfuir du royaume des démons avant que le pot aux roses ne soit découvert. Une tâche cependant bien ardue lorsque l'on est le prodige adoré du souverain démoniaque...",
         "Review": [
             {
-                "PGII": "Une histoire qui me pla\u00eet, on a les 2 c\u00f4t\u00e9s, que ce soit le c\u00f4t\u00e9 humain ou d\u00e9mon, tous se m\u00e9prennent sur son sujet, lui ne comprends pas comment il en est arriv\u00e9 l\u00e0 et ce retrouve toujours dans des situations complexes. La vengeance envers son Fr\u00e8re est un points des plus important de l'histoire, il fait avancer et ce surmener le personnage principal. Malgr\u00e9 la pr\u00e9sence de d\u00e9mon et d'humain, il ne s'agit pas d'une fantasy avec de la magie de partout et des techniques d'\u00e9p\u00e9es tr\u00e8s d\u00e9velopp\u00e9 \u00e0 tout vas, il s'agit plut\u00f4t de montrer la faiblesse du personnage principal qui lui crache du sang pas la simple action de se tenir debout. En somme une histoire int\u00e9ressante, alliant com\u00e9die, action et tranche de vie."
+                "PGII": "Une histoire qui me plaît, on a les 2 côtés, que ce soit le côté humain ou démon, tous se méprennent sur son sujet, lui ne comprends pas comment il en est arrivé là et ce retrouve toujours dans des situations complexes. La vengeance envers son Frère est un points des plus important de l'histoire, il fait avancer et ce surmener le personnage principal. Malgré la présence de démon et d'humain, il ne s'agit pas d'une fantasy avec de la magie de partout et des techniques d'épées très développé à tout vas, il s'agit plutôt de montrer la faiblesse du personnage principal qui lui crache du sang pas la simple action de se tenir debout. En somme une histoire intéressante, alliant comédie, action et tranche de vie."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/je-ne-suis-pas-celui-que-vous-croyez/list?title_no=5276",
@@ -186,10 +186,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "7",
         "chapterSize": "Long / Moyen",
-        "description": "Apr\u00e8s avoir assist\u00e9 impuissant \u00e0 la mort de sa m\u00e8re, le jeune Airn Pareira profite du sommeil pour \u00e9chapper \u00e0 la dure r\u00e9alit\u00e9, ce qui lui vaut le surnom de \u00ab lord paresseux \u00bb. Pourtant, malgr\u00e9 ce que les autres disent de lui, Airn n'a pas l'intention de changer ses habitudes. Mais la vie de ce dernier va prendre un tout autre tournant lorsqu\u2019un jour il se r\u00e9veille d'un r\u00eave sur un myst\u00e9rieux \u00e9p\u00e9iste.",
+        "description": "Après avoir assisté impuissant à la mort de sa mère, le jeune Airn Pareira profite du sommeil pour échapper à la dure réalité, ce qui lui vaut le surnom de « lord paresseux ». Pourtant, malgré ce que les autres disent de lui, Airn n'a pas l'intention de changer ses habitudes. Mais la vie de ce dernier va prendre un tout autre tournant lorsqu’un jour il se réveille d'un rêve sur un mystérieux épéiste.",
         "Review": [
             {
-                "PGII": "Le Webtoon figurant \u00e0 la seconde place dans la liste de mes pr\u00e9f\u00e9r\u00e9s, il utilise des choses plut\u00f4t basiques dans un univers classique, mais la fa\u00e7on dont le personnage progresse, se lie aux autres, les personnages secondaires qui sont bien \u00e9crits. La progression lente du personnage, jusqu'\u00e0 atteindre un bon niveau d'\u00e9p\u00e9e est quelque chose d'appr\u00e9ciable \u00e0 lire."
+                "PGII": "Le Webtoon figurant à la seconde place dans la liste de mes préférés, il utilise des choses plutôt basiques dans un univers classique, mais la façon dont le personnage progresse, se lie aux autres, les personnages secondaires qui sont bien écrits. La progression lente du personnage, jusqu'à atteindre un bon niveau d'épée est quelque chose d'appréciable à lire."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/the-lazy-lord-masters-the-sword/list?title_no=3494",
@@ -201,10 +201,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "95",
         "chapterSize": "Moyen",
-        "description": "Lee Jaha, surnomm\u00e9 le d\u00e9mon fou par ses ennemis, est revenu dans le pass\u00e9 apr\u00e8s qu'une seconde chance lui a \u00e9t\u00e9 octroy\u00e9e. Cette fois-ci, sa vie ne va pas \u00eatre r\u00e9duite \u00e0 n\u00e9ant. Il fera tout ce qui sera en son pouvoir pour prot\u00e9ger les opprim\u00e9s et \u00e9craser leurs bourreaux. Mais sera-t-il \u00e0 la hauteur pour vaincre ses ennemis dans sa deuxi\u00e8me vie ?",
+        "description": "Lee Jaha, surnommé le démon fou par ses ennemis, est revenu dans le passé après qu'une seconde chance lui a été octroyée. Cette fois-ci, sa vie ne va pas être réduite à néant. Il fera tout ce qui sera en son pouvoir pour protéger les opprimés et écraser leurs bourreaux. Mais sera-t-il à la hauteur pour vaincre ses ennemis dans sa deuxième vie ?",
         "Review": [
             {
-                "PGII": "Un Webtoon sur un univers de type Murim, mais le personnage principal est vraiment fou, il est parfois sain, mais par moments s'adonne \u00e0 des tueries. C'est \u00e0 la fois la beaut\u00e9 du personnage et la chose traumatisante qui le caract\u00e9rise, il s'en prend uniquement aux personnes mauvaises comme les violeurs, vendeurs d'esclaves. C'est l'histoire sur le Murim la plus violente que je connais, il est \u00e0 mon avis plut\u00f4t gore pour un Webtoon (m\u00eame si \u00e7a va)."
+                "PGII": "Un Webtoon sur un univers de type Murim, mais le personnage principal est vraiment fou, il est parfois sain, mais par moments s'adonne à des tueries. C'est à la fois la beauté du personnage et la chose traumatisante qui le caractérise, il s'en prend uniquement aux personnes mauvaises comme les violeurs, vendeurs d'esclaves. C'est l'histoire sur le Murim la plus violente que je connais, il est à mon avis plutôt gore pour un Webtoon (même si ça va)."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/return-of-the-mad-demon/list?title_no=4456",
@@ -216,10 +216,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "76",
         "chapterSize": "Moyen",
-        "description": "Travailler, \u00e9tudier, manger\u2026 Tant de choses \u00e0 faire et si peu de temps pour le reste ! Si seulement on pouvait se d\u00e9doubler, la vie serait tellement plus simple ! Le v\u0153u de Sangwoo se r\u00e9alise le jour de son '\u00c9veil': il a d\u00e9sormais le pouvoir de se d\u00e9multiplier. Il d\u00e9cide d'exploiter sa nouvelle comp\u00e9tence pour devenir un chasseur : il sera le cerveau et ses clones, ses marionnettes.",
+        "description": "Travailler, étudier, manger… Tant de choses à faire et si peu de temps pour le reste ! Si seulement on pouvait se dédoubler, la vie serait tellement plus simple ! Le vœu de Sangwoo se réalise le jour de son 'Éveil': il a désormais le pouvoir de se démultiplier. Il décide d'exploiter sa nouvelle compétence pour devenir un chasseur : il sera le cerveau et ses clones, ses marionnettes.",
         "Review": [
             {
-                "PGII": "Un Webtoon sympa, un peu clich\u00e9 mais tr\u00e8s dr\u00f4le \u00e0 lire, j'approuve."
+                "PGII": "Un Webtoon sympa, un peu cliché mais très drôle à lire, j'approuve."
             }
         ],
         "link": "https://www.webtoons.com/fr/action/auto-hunting-with-my-clones/list?title_no=5031",
@@ -231,25 +231,25 @@ var webtoons = [
         "status": "En cours",
         "chapters": "132",
         "chapterSize": "Moyen",
-        "description": "Alors qu'il finit un jeu r\u00e9put\u00e9 infaisable pour sa difficult\u00e9, le h\u00e9ros voit les tours qui le peuple apparaissent sur Terre ! Finis la vie mis\u00e9rable, il compte bien mettre \u00e0 profit ses ann\u00e9es d'exp\u00e9riences sur ce jeu que tous ont abandonn\u00e9",
+        "description": "Alors qu'il finit un jeu réputé infaisable pour sa difficulté, le héros voit les tours qui le peuple apparaissent sur Terre ! Finis la vie misérable, il compte bien mettre à profit ses années d'expériences sur ce jeu que tous ont abandonné",
         "Review": [
             {
-                "Darkendo": "Classique mais toujours dr\u00f4le, le personnage principal est un sale tape et il n'a parfois si peu de consid\u00e9ration pour les autres que c'est extr\u00eamement dr\u00f4le, il mens, manipules, utilise, etc. Bien s\u00fbr en plus il y a la dimension fantastique (c'est le principal) mais je trouve que c'est plus du d\u00e9cor \"classique\" et que la partie importante est le personnage principal qui ne respecte absolument aucun code des syst\u00e8mes jeux vid\u00e9o qui semblent gouverner ce nouveau monde"
+                "Darkendo": "Classique mais toujours drôle, le personnage principal est un sale tape et il n'a parfois si peu de considération pour les autres que c'est extrêmement drôle, il mens, manipules, utilise, etc. Bien sûr en plus il y a la dimension fantastique (c'est le principal) mais je trouve que c'est plus du décor \"classique\" et que la partie importante est le personnage principal qui ne respecte absolument aucun code des systèmes jeux vidéo qui semblent gouverner ce nouveau monde"
             }
         ],
         "link": "https://www.webtoons.com/fr/fantasy/max-level-newbie/list?title_no=3517",
         "lastEditDate": "14/11/23"
     },
     {
-        "title": "\u00c9p\u00e9e et qu\u00eate",
-        "genre": "com\u00e9die",
+        "title": "Épée et quête",
+        "genre": "comédie",
         "status": "En cours",
         "chapters": "106",
-        "chapterSize": "tr\u00e8s courts",
-        "description": "le monde des jeux vid\u00e9o donne parfois lieu \u00e0 des situations tr\u00e8s dr\u00f4les, suivez les aventures d'un joueur pas si malin et d'un slime qui r\u00eave de tuer les joueurs \u00e0 travers un monde de fantaisie tr\u00e8s clich\u00e9.",
+        "chapterSize": "très courts",
+        "description": "le monde des jeux vidéo donne parfois lieu à des situations très drôles, suivez les aventures d'un joueur pas si malin et d'un slime qui rêve de tuer les joueurs à travers un monde de fantaisie très cliché.",
         "Review": [
             {
-                "Darkendo": "Des shorts tr\u00e8s courts et dr\u00f4les, sans une vraie histoire mais parfois avec des r\u00e9f\u00e9rences entre \u00e9pisodes, sympa et rapide"
+                "Darkendo": "Des shorts très courts et drôles, sans une vraie histoire mais parfois avec des références entre épisodes, sympa et rapide"
             }
         ],
         "link": "https://www.webtoons.com/fr/comedy/epee-et-quetes/list?title_no=5183",
@@ -261,10 +261,10 @@ var webtoons = [
         "status": "En cours",
         "chapters": "95",
         "chapterSize": "Long",
-        "description": "Lass\u00e9 de d\u00e9fendre les hommes contre les fant\u00f4mes avides d'\u00e2me, les dieux d\u00e9cid\u00e8rent qu'un homme serait choisi tous les 500 ans parmi ceux capables de manier le pouvoir divin, et que celui-ci recevra des dieux l'immortalit\u00e9, la force, et le devoir de prot\u00e9ger le monde. Apr\u00e8s 1000 ans de silence, les deux ont envoy\u00e9 un oracle : la comp\u00e9tition pour choisir le futur empereur parmi les 20 candidats, va commencer.",
+        "description": "Lassé de défendre les hommes contre les fantômes avides d'âme, les dieux décidèrent qu'un homme serait choisi tous les 500 ans parmi ceux capables de manier le pouvoir divin, et que celui-ci recevra des dieux l'immortalité, la force, et le devoir de protéger le monde. Après 1000 ans de silence, les deux ont envoyé un oracle : la compétition pour choisir le futur empereur parmi les 20 candidats, va commencer.",
         "Review": [
             {
-                "Darkendo": "Une \u0153uvre tr\u00e8s belle, tr\u00e8s bien amen\u00e9e, sur le 4\u00e8me prince. Entre histoire douloureuse, romance impossible,  lutte, nostalgie, fatalit\u00e9, complot, mensonge et joie, je trouve cette histoire poignante et tr\u00e8s belle, agr\u00e9able et triste, profonde. Contrairement \u00e0 la plupart des histoires, celle-ci montre tous les aspects de la vie du protagoniste, et son originalit\u00e9 est bienvenue."
+                "Darkendo": "Une œuvre très belle, très bien amenée, sur le 4ème prince. Entre histoire douloureuse, romance impossible,  lutte, nostalgie, fatalité, complot, mensonge et joie, je trouve cette histoire poignante et très belle, agréable et triste, profonde. Contrairement à la plupart des histoires, celle-ci montre tous les aspects de la vie du protagoniste, et son originalité est bienvenue."
             }
         ],
         "link": "https://www.webtoons.com/fr/fantasy/le-prince-mystique/list?title_no=4459",

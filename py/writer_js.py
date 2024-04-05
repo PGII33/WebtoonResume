@@ -9,8 +9,6 @@ data = lecteur_js.parse_json(data)
 data = lecteur_js.convert_review_objects(data)
 data = lecteur_js.update_episode_count(data)
 
-print(data)
-
 # Assuming 'data' is a list of dictionaries
 for item in data:
     if 'Review' in item:
@@ -19,4 +17,8 @@ for item in data:
 # Now write the updated data to the file
 with open("../js/base_donnee.js", "w", encoding="utf-8") as file:
     file.write("var webtoons = ")
-    file.write(json.dumps(data, indent=4))
+    file.write(json.dumps(data, indent=4, ensure_ascii=False))
+
+# Print the updated data
+with open("../js/base_donnee.js", "r", encoding="utf-8") as file:
+    print(file.read())
