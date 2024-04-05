@@ -3,7 +3,7 @@ var webtoons = [
         "title": "Batard",
         "genre": "Thriller",
         "status": "Terminé",
-        "chapters": "11",
+        "chapters": "93",
         "chapterSize": "Court",
         "description": "Nous allons suivre le quotidien d'un fils ainsi que de son père, qui n'ont pas un quotidien des plus classiques. Pourquoi le père tue-t-il autrui ? Que s'est-il passé avec la mère ? Quels sont les anciens souvenirs perdus de l'enfant ? Toutes ces questions font partie de l'intrigue principale de ce Webtoon horreur.",
         "Review": [
@@ -79,7 +79,7 @@ var webtoons = [
         "title": "Like Wind on a Dry Branch",
         "genre": "Fantastique / Romance",
         "status": "En cours",
-        "chapters": "161",
+        "chapters": "162",
         "chapterSize": "Long / Court",
         "description": "Rietta Tristi est une jeune femme vivant dans une époque où les 'démons', plus précisément la peste, fait rage. La maladie ayant emporté son mari, elle se retrouve face à la menace d'un noble malveillant, voulant faire d'elle sa femme. Celui-ci fit enlever sa fille afin de la vendre en esclavage suite à son refus. Avant sa mort, il demanda à ce que Rietta soit enterrée vivante à ses côtés. Cependant, la vie de la jeune femme se voit sauver par la visite surprise d'un prince déchu.",
         "Review": [
@@ -94,7 +94,7 @@ var webtoons = [
         "title": "For my derelict favorite",
         "genre": "Romance / Comique",
         "status": "En cours",
-        "chapters": "3",
+        "chapters": "56",
         "chapterSize": "Moyen",
         "description": "Nous savons souvent comment se déroule une histoire dans un livre, mais savons-nous ce qui se passe après le 'heureux jusqu'à la fin des temps'? C'est une réponse que nous aurons en suivant l'histoire Hestia. Hestia est une jeune femme ayant été assassinée dans son ancienne vie. Cependant, la vie lui octroie une réincarnation qui lui plaît fortement. Étant une grande fangirl de roman, quelle a été sa surprise en se réveillant dans l'univers de son roman préféré!",
         "Review": [
@@ -124,7 +124,7 @@ var webtoons = [
         "title": "Solo Hunting",
         "genre": "Action",
         "status": "Terminé",
-        "chapters": "7",
+        "chapters": "92",
         "chapterSize": "Moyen",
         "description": "Oh Yuseong travaille dans une supérette et vient de se faire larguer par sa copine qui ne le trouve pas assez ambitieux. Alors qu’il touche le fond, une fissure devant lui libère un monstre qui s'en prend à lui. Aux portes de la mort, le mystérieux pouvoir de la 'chasse en mode automatique' s’éveille en lui. Maintenant il n’a plus qu’à le maîtriser pour devenir le meilleur des chasseurs !",
         "Review": [
@@ -139,7 +139,7 @@ var webtoons = [
         "title": "The World After The Fall",
         "genre": "Action",
         "status": "En cours",
-        "chapters": "105",
+        "chapters": "106",
         "chapterSize": "Moyen / Long",
         "description": "Lorsque l’apocalypse a éclaté, Jaehwan a été convoqué par la « Tour des cauchemars »...",
         "Review": [
@@ -169,7 +169,7 @@ var webtoons = [
         "title": "Je ne suis pas celui que vous croyez",
         "genre": "Action / SoL / Comedie",
         "status": "En cours",
-        "chapters": "56",
+        "chapters": "57",
         "chapterSize": "Moyen",
         "description": "Demon Arut est le capitaine de la Légion zéro, l'un des treize ordres au service du roi des démons. Bien qu'il soit humain, son seul nom suffit à faire trembler d'effroi ceux qui l'entendent, car il est cruel et impitoyable. Enfin ça, c'est la version officielle. En réalité, il s'appelle Deon Hart, manque de s'évanouir à la moindre anxiété et s'est retrouvé à la tête de la Légion zéro sur un malentendu. Il n'aspire donc qu'à une chose : s'enfuir du royaume des démons avant que le pot aux roses ne soit découvert. Une tâche cependant bien ardue lorsque l'on est le prodige adoré du souverain démoniaque...",
         "Review": [
@@ -184,7 +184,7 @@ var webtoons = [
         "title": "The Lazy Lord Masters the Sword",
         "genre": "Action / SoL / Fantastique",
         "status": "En cours",
-        "chapters": "7",
+        "chapters": "86",
         "chapterSize": "Long / Moyen",
         "description": "Après avoir assisté impuissant à la mort de sa mère, le jeune Airn Pareira profite du sommeil pour échapper à la dure réalité, ce qui lui vaut le surnom de « lord paresseux ». Pourtant, malgré ce que les autres disent de lui, Airn n'a pas l'intention de changer ses habitudes. Mais la vie de ce dernier va prendre un tout autre tournant lorsqu’un jour il se réveille d'un rêve sur un mystérieux épéiste.",
         "Review": [
@@ -244,7 +244,7 @@ var webtoons = [
         "title": "Épée et quête",
         "genre": "comédie",
         "status": "En cours",
-        "chapters": "106",
+        "chapters": "107",
         "chapterSize": "très courts",
         "description": "le monde des jeux vidéo donne parfois lieu à des situations très drôles, suivez les aventures d'un joueur pas si malin et d'un slime qui rêve de tuer les joueurs à travers un monde de fantaisie très cliché.",
         "Review": [
