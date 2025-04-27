@@ -1,2 +1,7 @@
 # WebtoonResume
-Pour voir les anciens commits, qui ont permis le site avant ceux disponible sur ce repo, il faut aller voir mon repo pgii_spam.
+WebtoonResume est un projet dont l'objectif est de donner des avis sur des webtoons pour pouvoir conseiller (ou non) un webtoon à une personne.
+
+## Contributeurs
+Darkendo
+Pandi
+PGII (moi même)
