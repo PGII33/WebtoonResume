@@ -3,5 +3,7 @@ WebtoonResume est un projet dont l'objectif est de donner des avis sur des webto
 
 ## Contributeurs
 Darkendo
+
 Pandi
+
 PGII (moi même)
